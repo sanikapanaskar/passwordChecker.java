@@ -73,4 +73,5 @@ public class PasswordChecker extends JFrame {
             checker.setVisible(true);
         });
     }
+
 }
